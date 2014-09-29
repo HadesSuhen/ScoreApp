@@ -36,6 +36,7 @@ class ViewController: UIViewController {
                 imageView.image = UIImage(named: "keditbookmarks")
             break
             default:
+                println("error")
             break
         }
         
